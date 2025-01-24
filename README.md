@@ -15,7 +15,7 @@
 ## Kaynaklar
 
 -   [Introduction](./docs/intro.md)
--   [Roadmap](./docs/roadmap.md)
+-   [Yol Haritası](./docs/roadmap.md)
 -   [Bileşenler](https://yteshowcase.apps.yakut.bilgem.gov.tr/)
 -   [Browser support and FAQ](./docs/support.md)
 -   [ideas](https://github.com/tubitak-bilgem-yte/yakut-ui/discussions/categories/ideas)
@@ -35,7 +35,7 @@ Beautiful and accessible web applications can be easily designed with `YAKUT-DES
 
 -   [Introduction](./docs/intro.md)
 -   [Roadmap](./docs/roadmap.md)
--   [Bileşenler](https://yteshowcase.apps.yakut.bilgem.gov.tr/)
+-   [Components](https://yteshowcase.apps.yakut.bilgem.gov.tr/)
 -   [Browser support and FAQ](./docs/support.md)
 -   [ideas](https://github.com/tubitak-bilgem-yte/yakut-ui/discussions/categories/ideas)
 -   [Q&A](https://github.com/tubitak-bilgem-yte/yakut-ui/discussions/categories/q-a)
