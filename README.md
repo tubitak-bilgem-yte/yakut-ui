@@ -12,12 +12,14 @@
 
 **Note: [yakut-ui bileşen kütüphanesi şu anda alpha sürüm olarak yayınlanmıştır. stable sürüm çalışmaları devam etmektedir ve en kısa zamanda yayınlanacaktır.]**
 
-## Resources
+## Kaynaklar
 
 -   [Introduction](./docs/intro.md)
 -   [Roadmap](./docs/roadmap.md)
 -   [Bileşenler](https://yteshowcase.apps.yakut.bilgem.gov.tr/)
 -   [Browser support and FAQ](./docs/support.md)
+-   [ideas](https://github.com/tubitak-bilgem-yte/yakut-ui/discussions/categories/ideas)
+-   [Q&A](https://github.com/tubitak-bilgem-yte/yakut-ui/discussions/categories/q-a)
 
 ## Kurulum
 
@@ -35,6 +37,8 @@ Beautiful and accessible web applications can be easily designed with `YAKUT-DES
 -   [Roadmap](./docs/roadmap.md)
 -   [Bileşenler](https://yteshowcase.apps.yakut.bilgem.gov.tr/)
 -   [Browser support and FAQ](./docs/support.md)
+-   [ideas](https://github.com/tubitak-bilgem-yte/yakut-ui/discussions/categories/ideas)
+-   [Q&A](https://github.com/tubitak-bilgem-yte/yakut-ui/discussions/categories/q-a)
 
 ## Installation
 
