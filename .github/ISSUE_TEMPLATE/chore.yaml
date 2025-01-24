@@ -1,0 +1,14 @@
+name: 🧹 Chore
+description: Request any work on repo other than feature and bug
+
+body:
+  - type: textarea
+    id: description
+    validations:
+      required: true
+    attributes:
+      label: Description
+      description: |
+        Please describe the work that needs to be done in as much detail as possible. Include why the work is needed.
+      placeholder: |
+        Update vite and vitest package.json in order to have better developer experience and up-to-date testing tool.
