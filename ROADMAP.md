@@ -1,19 +1,18 @@
 # Roadmap
 
-`yakut-uı` bileşen kütüphanesinin geliştirilmesine belirli bir yol haritası oluşturulduktan sonra başlanmıştır.
-İlk etapta belirlenen yol haritasının tamamlanması ile de ilk versiyonu yayınlanmıştır.
+`yakut-uı` bileşen kütüphanesinin geliştirilmesine, belirli bir yol haritası oluşturulduktan sonra başlanmıştır.
+Bu ilk yol haritasının tamamlanmasıyla birlikte, kütüphanenin ilk sürümü yayınlanmıştır.
 
-Projenin açık kaynak kodlu hale gelmesi ile sizlerden/topluluktan gelen talepler doğrultusunda
-sahip olacağı bileşenlerin, servislerin ve özelliklerin değişiklik göstermesi beklenmektedir.
-Uzun yılları kapsayan çok uzun süreli sabit bir yol haritası yerine kısa süreler için netleşmiş
-yol haritalarını oluşturmayı planlıyoruz.
+Projenin açık kaynak hale gelmesiyle birlikte, topluluktan gelen geri bildirimler doğrultusunda bileşen, servis
+ve özellik setinin zaman içinde değişiklik göstermesi beklenmektedir. Bu nedenle, uzun yılları kapsayan sabit
+bir yol haritası yerine, daha kısa vadeli ve netleşmiş planlara odaklanmayı tercih ediyoruz.
 
-Bu sayfa üzerinde bir sonraki sürüm için netleşmiş yol haritalarına kolayca ulaşabilirsiniz.
-Güncel durum şu şekildedir;
+Bu sayfa üzerinden, bir sonraki sürüm için belirlenen güncel yol haritalarına kolayca ulaşabilirsiniz.
+**Güncel Durum:**
 
 ### yakut-ui 2.0.0
 
-*Planned for 2025*
+*Planned for 2026*
 
     *   🟡 File Upload
     *   🟡 Drawer
@@ -58,6 +57,7 @@ Güncel durum şu şekildedir;
     * ✅ Tag
     * ✅ Icon
     * ✅ Mask Input
+    * ✅ Notification
 
-* Bileşenler
+* Servisler
     * ✅ Notification Service
